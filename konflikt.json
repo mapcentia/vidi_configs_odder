@@ -1,6 +1,7 @@
 {
   "enabledExtensions": [
-    "conflictSearch"
+    "conflictSearch",
+    "streetView"
   ],
   
   "template": "default.tmpl",
