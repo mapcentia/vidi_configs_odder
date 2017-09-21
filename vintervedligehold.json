@@ -3,5 +3,12 @@
     "vectorLayers"
   ],
   
-  "template": "min.tmpl"
+  "template": "min.tmpl",
+  
+  "schemata": [
+   "vintervedligehold"
+  ],
+  
+  "activateMainTab": "vectorLayers"
+  
 }
