@@ -1,0 +1,11 @@
+{
+  "enabledExtensions": [
+    "streetView"
+  ],
+  
+  "template": "default.tmpl",
+  
+  "schemata": [
+   "jordvarme"
+  ]
+}
