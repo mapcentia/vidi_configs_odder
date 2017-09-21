@@ -1,0 +1,11 @@
+{
+  "enabledExtensions": [
+    "conflictSearch"
+  ],
+  
+  "template": "default.tmpl",
+  
+  "schemata": [
+   "webgis"
+  ]
+}
