@@ -1,0 +1,8 @@
+{
+  "enabledExtensions": [
+    "layerSearch",
+    "streetView"
+  ],
+  
+  "template": "default.tmpl"
+}
