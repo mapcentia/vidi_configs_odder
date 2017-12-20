@@ -8,5 +8,7 @@
   
   "schemata": [
    "webgis"
-  ]
+  ],
+  
+  "activateMainTab": "conflictSearch"
 }
