@@ -10,5 +10,5 @@
    "webgis"
   ],
   
-  "activateMainTab": "#conflict-content"
+  "activateMainTab": "conflict-content"
 }
