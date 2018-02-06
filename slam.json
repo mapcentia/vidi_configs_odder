@@ -1,1 +1,14 @@
-
+{
+  "enabledExtensions": [
+    "conflictSearch",
+    "streetView"
+  ],
+  
+  "template": "default.tmpl",
+  
+  "schemata": [
+   "slam"
+  ],
+  
+  "activateMainTab": "conflict"
+}
