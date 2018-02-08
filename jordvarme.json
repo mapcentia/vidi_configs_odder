@@ -1,11 +1,13 @@
 {
   "enabledExtensions": [
-    "streetView"
+    "streetView",
+    "conflictSearch"
   ],
   
   "template": "default.tmpl",
   
   "schemata": [
    "jordvarme"
-  ]
+  ],
+  "activateMainTab": "conflict"
 }
