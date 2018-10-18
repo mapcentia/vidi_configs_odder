@@ -11,7 +11,7 @@
   ],
   "activateMainTab": "conflict",
   
-  "extensionConfig:" {
+  "extensionConfig": {
     "conflictSearch": {
       "startBuffer": 50,
       "getProperty": true
