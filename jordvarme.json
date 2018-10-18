@@ -10,8 +10,11 @@
    "jordvarme"
   ],
   "activateMainTab": "conflict",
-  "conflictSearch": {
-    "startBuffer": 50,
-    "getProperty": true
+  
+  "extensionConfig:" {
+    "conflictSearch": {
+      "startBuffer": 50,
+      "getProperty": true
+    }
   }
 }
