@@ -1,7 +1,8 @@
 {
   "enabledExtensions": [
     "conflictSearch",
-    "streetView"
+    "streetView",
+    "coordinates"
   ],
   
   "template": "default.tmpl",
